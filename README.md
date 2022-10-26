@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Metrics](https://metrics.lecoq.io/RainyNight9?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
+
 ## 🛠 &nbsp;Tech Stack
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
@@ -26,8 +28,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>&nbsp;
 <code><img height="20" src="https://vitejs.dev/logo.svg"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-![Metrics](https://metrics.lecoq.io/RainyNight9?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
 
 <div align="left"> 
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=RainyNight9&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
