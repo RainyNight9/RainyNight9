@@ -1,23 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I am RainyNight9</h1>
 
-## 🦸🏻‍♂️ &nbsp;About Me
-
-<!--
-**RainyNight9/RainyNight9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Metrics](https://metrics.lecoq.io/RainyNight9?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Always%20learning%20new%20things&center=true&width=380&height=45">
+  </a>
+</p>
 
 ## 🛠 &nbsp;Tech Stack
 
