@@ -17,6 +17,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>&nbsp;
 <code><img height="30" src="https://vitejs.dev/logo.svg"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
+<code><img height="30" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png"></code>&nbsp;
 <code><img height="30" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4"></code>&nbsp;
 <code><img height="30" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4"></code>&nbsp;
 
