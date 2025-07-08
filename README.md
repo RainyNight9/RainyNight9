@@ -21,6 +21,7 @@
 <code><img height="30" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4"></code>&nbsp;
 <code><img height="30" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4"></code>&nbsp;
 <code><img height="30" src="https://avatars.githubusercontent.com/u/5430905?s=48&v=4"></code>&nbsp;
+<code><img height="30" src="https://avatars.githubusercontent.com/u/54536011?s=48&v=4"></code>&nbsp;
 <code><img height="30" src="https://avatars.githubusercontent.com/u/14101776?s=48&v=4"></code>&nbsp;
 
 ## 🍁 &nbsp;My Stats
