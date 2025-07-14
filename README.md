@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I am RainyNight9</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Always%20learning%20new%20things&center=true&width=380&height=45">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Always%20learning%20new%20things;Hi 👋, I am RainyNight9;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞&center=true&width=380&height=45">
   </a>
 </p>
 
