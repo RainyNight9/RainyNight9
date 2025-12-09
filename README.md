@@ -29,11 +29,18 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainyNight9&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />  
 </div>
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RainyNight9&theme=github_dark"/>
-</p>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RainyNight9&theme=github_dark" height="300"/>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" height="200" align="right" alt="A professional animation coder gif"/>
+</div>
+
+
 
 ![Gitartwork](https://raw.githubusercontent.com/RainyNight9/RainyNight9/main/gitartwork.svg)
 
 <a href=#><img src="contributions.svg"></a>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+
 
