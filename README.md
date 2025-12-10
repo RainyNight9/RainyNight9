@@ -31,12 +31,11 @@
 
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RainyNight9&theme=github_dark" height="300"/>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" height="200" align="right" alt="A professional animation coder gif"/>
 </div>
 
-
-
 ![Gitartwork](https://raw.githubusercontent.com/RainyNight9/RainyNight9/main/gitartwork.svg)
+
+<!-- <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" alt="A professional animation coder gif"/> -->
 
 <a href=#><img src="contributions.svg"></a>
 
