@@ -1,43 +1,78 @@
 <h1 align="center">Hi 👋, I am RainyNight9</h1>
 
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞;AI+Native+Builder+🤖;Workflow+%2F+Agent+Explorer+🧠"></a>
 </p>
+
+---
 
 ## 🛠 &nbsp;Tech Stack
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>&nbsp;
-<code><img height="30" src="https://vitejs.dev/logo.svg"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
-<code><img height="30" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png"></code>&nbsp;
-<code><img height="30" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4"></code>&nbsp;
-<code><img height="30" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4"></code>&nbsp;
-<code><img height="30" src="https://avatars.githubusercontent.com/u/5430905?s=48&v=4"></code>&nbsp;
-<code><img height="30" src="https://avatars.githubusercontent.com/u/54536011?s=48&v=4"></code>&nbsp;
-<code><img height="30" src="https://avatars.githubusercontent.com/u/14101776?s=48&v=4"></code>&nbsp;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nodejs,vite,webpack,tauri,rust,python,bun,nestjs,tailwind,flutter,git,github,vscode&perline=16" />
+</p>
 
-## 🍁 &nbsp;My Stats
+---
 
-<div align="left"> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=RainyNight9&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainyNight9&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />  
-</div>
+# 🚀 Featured Projects
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RainyNight9&theme=github_dark" height="300"/>
-</div>
+| Project                 | Description                                              |
+| ----------------------- | -------------------------------------------------------- |
+| 🚶 CodeWalkers          | AI desktop companion wandering on your screen            |
+| 🧠 AI Workflow Tools    | Exploring Agent-based productivity systems               |
+| ⚡ Tauri Apps            | Lightweight cross-platform desktop applications          |
+| 🎨 Creative Experiments | Interactive ideas, animations, and AI-native experiences |
 
-![Gitartwork](https://raw.githubusercontent.com/RainyNight9/RainyNight9/main/gitartwork.svg)
+---
 
-<!-- <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" alt="A professional animation coder gif"/> -->
+# 📊 GitHub Stats
 
-<!-- <a href=#><img src="contributions.svg"></a> -->
+<p align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RainyNight9&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainyNight9&layout=compact&hide_border=true&theme=transparent" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=RainyNight9&theme=transparent&hide_border=true" />
+
+</p>
+
+---
+
+# 🌌 Contribution Galaxy
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RainyNight9&theme=github_dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/RainyNight9/RainyNight9/main/gitartwork.svg" />
+
+</p>
+
+---
+
+# ✨ Current Interests
+
+* 🤖 AI Agent Runtime
+* 🧩 Workflow Systems
+* 🖥 Desktop AI
+* 🎮 Interactive Experiences
+* 🌐 AI Native Interfaces
+
+---
+
+<p align="center">
+
+"Future software may not just be used.
+It may collaborate with us."
+
+</p>
 
