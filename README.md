@@ -29,8 +29,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-you-want.vercel.app/api?username=RainyNight9&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats-you-want.vercel.app/api/top-langs/?username=RainyNight9&layout=compact&hide_border=true&theme=transparent&cache_seconds=1800" />
+  <img height="165"
+    src="https://github-readme-stats-you-want.vercel.app/api?username=RainyNight9&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=1800&v=3" />
+
+  <img height="165"
+    src="https://github-readme-stats-you-want.vercel.app/api/top-langs/?username=RainyNight9&layout=compact&hide_border=true&theme=transparent&cache_seconds=1800&v=3" />
 </p>
 
 <p align="center">
