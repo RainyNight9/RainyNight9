@@ -15,17 +15,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-| Project                 | Description                                              |
-| ----------------------- | -------------------------------------------------------- |
-| 🚶 CodeWalkers          | AI desktop companion wandering on your screen            |
-| 🧠 AI Workflow Tools    | Exploring Agent-based productivity systems               |
-| ⚡ Tauri Apps            | Lightweight cross-platform desktop applications          |
-| 🎨 Creative Experiments | Interactive ideas, animations, and AI-native experiences |
-
----
-
 # 📊 GitHub Stats
 
 <p>
