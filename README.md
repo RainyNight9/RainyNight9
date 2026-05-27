@@ -2,7 +2,7 @@
 <p align="center">AI Native Builder • Workflow Explorer • Tauri Developer</p>
 
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=58a6ff&size=22&center=true&lines=AI+Native+Builder+🤖;Workflow+%2F+Agent+Explorer+🧠;Building+CodeWalkers+🚶;Designing+Interactive+Systems+✨"></a>
+  <a href="#"><img width="800px" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=58a6ff&size=20&center=true&lines=AI+Native+Builder+🤖;Workflow+%2F+Agent+Explorer+🧠;Building+CodeWalkers+🚶;Designing+Interactive+Systems+✨"></a>
 </p>
 
 ---
