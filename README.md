@@ -45,22 +45,4 @@
 
 </p>
 
----
-
-# ✨ Current Interests
-
-* 🤖 AI Agent Runtime
-* 🧩 Workflow Systems
-* 🖥 Desktop AI
-* 🎮 Interactive Experiences
-* 🌐 AI Native Interfaces
-
----
-
-<p align="center">
-
-"Future software may not just be used.
-It may collaborate with us."
-
-</p>
 
